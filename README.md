@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Safespace](https://github.com/AlixV-Hub/safespace.gestion_securite_service.git)
 
-- 👯 I'm currently collaborating on [IKEADA] (Beguin on monday 3rd of Novembre 2025)
+- 👯 I'm currently collaborating on [SecondChanceFurnitures] (https://github.com/AlixV-Hub/adaMeubleApi.git) (https://github.com/Phogo2112/AdaMeubleFront.git)
 
 - 👯 I have collaborated on [ExtensionNavigateur](https://github.com/adatechschool/ExtensionChromeNAN)
 
